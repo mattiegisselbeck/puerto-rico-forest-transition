@@ -14,7 +14,7 @@ Methods
 - Generalized Linear Regression (GLR) `statsmodels.api` `scikit-learn`
 - Random Forest Model `scikit-learn`
 - Linear Regression, Lasso, Ridge, Decision Tree Regression, Random Forest Regression, and XGBoost Regression `scikit-learn` `xgboost`
-
+<br>
 <br>
 Results 
 <br>
