@@ -15,7 +15,9 @@ Methods
 - Random Forest Model `scikit-learn`
 - Linear Regression, Lasso, Ridge, Decision Tree Regression, Random Forest Regression, and XGBoost Regression `scikit-learn` `xgboost`
 
+<br>
 Results 
+<br>
 The Random Forest Model was the best model in predicting forest cover in Puerto Rico, r2 = 0.83. 
 
 
