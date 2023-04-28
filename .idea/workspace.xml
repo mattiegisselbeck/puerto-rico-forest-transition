@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a914c3c-5a08-49dc-9974-879d2acedd4d" name="Changes" comment="Added visualization and analysis">
+      <change beforePath="$PROJECT_DIR$/data/PuertoRico_1km.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/PuertoRico_1km.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/PuertoRico_1km.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/data/PuertoRico_1km.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/PuertoRico_1km.shp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/PuertoRico_1km.shp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipynb/puerto_rico_forest_transition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ipynb/puerto_rico_forest_transition.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2OJ93jdo15oITApQZSRYQoKiLYO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/mattiegisselbeck/Documents/GitHub/environmental-justice-concern-prediction/venv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a914c3c-5a08-49dc-9974-879d2acedd4d" name="Changes" comment="" />
+      <created>1681267621337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681267621337</updated>
+      <workItem from="1681267622730" duration="373000" />
+      <workItem from="1681268005155" duration="13348000" />
+      <workItem from="1681350525611" duration="50000" />
+      <workItem from="1681405291149" duration="4711000" />
+      <workItem from="1681412873220" duration="2000" />
+      <workItem from="1681412878409" duration="4441000" />
+      <workItem from="1681423526870" duration="187000" />
+      <workItem from="1681424042770" duration="30988000" />
+      <workItem from="1681678539408" duration="3633000" />
+      <workItem from="1681686973536" duration="4171000" />
+      <workItem from="1681691159648" duration="1121000" />
+      <workItem from="1681692286779" duration="34000" />
+      <workItem from="1681692332326" duration="1035000" />
+      <workItem from="1681693386316" duration="361000" />
+      <workItem from="1681693761515" duration="5705000" />
+      <workItem from="1681864128367" duration="3177000" />
+      <workItem from="1682289481002" duration="24253000" />
+      <workItem from="1682444756543" duration="5295000" />
+      <workItem from="1682537869763" duration="4473000" />
+      <workItem from="1682567940111" duration="6292000" />
+      <workItem from="1682610435673" duration="110000" />
+      <workItem from="1682610558799" duration="28000" />
+      <workItem from="1682610620453" duration="4362000" />
+      <workItem from="1682615082271" duration="2526000" />
+      <workItem from="1682697513649" duration="7349000" />
+    </task>
+    <task id="LOCAL-00001" summary="Formatted notebook file">
+      <created>1681350559348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681350559348</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added visualization and analysis">
+      <created>1681696646182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681696646182</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Formatted notebook file" />
+    <MESSAGE value="Added visualization and analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added visualization and analysis" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/mattiegisselbeck/Documents/GitHub/environmental-justice-concern-prediction/justice_prediction copy.ipynb</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/mattiegisselbeck/Documents/GitHub/puerto-rico-forest-transition/ipynb/puerto_rico_forest_transition.ipynb</url>
+          <line>188</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
