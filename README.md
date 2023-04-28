@@ -19,8 +19,6 @@ The aim of this project was to determine the most significant factors contributi
 ### Results 
 The Random Forest Model was the best model in predicting forest cover in Puerto Rico, r2 = 0.83. 
 
-<img src="https://user-images.githubusercontent.com/103837294/235195498-87af7c61-3f89-40af-a381-c8bb33db1e79.svg" width=50% height=50%>
-
 
 ## Structure
 * Data: `/data`
