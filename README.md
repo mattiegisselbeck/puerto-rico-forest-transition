@@ -1,7 +1,7 @@
 # `puerto-rico-forest-transition`: Examining Puerto Rico’s Forest Transition with Tree Cover Prediction Models
 
 
-This project was completed as a requirement for GIS 5572: Principles of Geocomputing at the University of Minnesota.
+This project was completed as a requirement for GIS 5541: Principles of Geocomputing at the University of Minnesota.
 
 ## About
 
