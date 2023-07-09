@@ -23,7 +23,7 @@ The Random Forest Model was the best model in predicting forest cover in Puerto 
 ## Structure
 * Data: `/data`
 
-* IPYNB File(s): `/ipynb`
+* Juytper Notebook(s): `/notebooks`
 
 
 ## Author(s)
