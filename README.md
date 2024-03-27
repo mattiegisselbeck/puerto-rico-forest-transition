@@ -1,9 +1,6 @@
 # `puerto-rico-forest-transition`: Examining Puerto Rico’s Forest Transition with Tree Cover Prediction Models
 
-
-This project was completed as a requirement for GIS 5541: Principles of Geocomputing at the University of Minnesota.
-
-## About
+## Overview
 
 The aim of this project was to determine the most significant factors contributing to forest transition (~1950s-2000s) and to find a model that best predicts forest cover based on the explanatory variables. The explanatory variables under consideration comprise slope, soil productivity, precipitation, poverty rate, population density, and land protection level. 
 
